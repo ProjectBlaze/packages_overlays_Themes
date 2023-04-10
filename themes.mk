@@ -168,3 +168,14 @@ PRODUCT_PACKAGES += \
 
 # Plugins
 #-include packages/apps/PotatoPlugins/plugins.mk
+
+# QS Panel
+PRODUCT_PACKAGES += \
+    QSOutline \
+    QSTwoToneAccent \
+    QSShaded \
+    QSCyberPunk \
+    QSNeumorph \
+    QSReflected \
+    QSSurround \
+    QSThin

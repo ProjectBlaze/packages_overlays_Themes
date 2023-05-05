@@ -256,7 +256,11 @@ PRODUCT_PACKAGES += \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay \
-    IconShapeRoundedHexagonOverlay
+    IconShapeRoundedHexagonOverlay \
+    IconShapeScrollOverlay \
+    IconShapeIosOverlay \
+    IconShapeRohieMeowOverlay \
+    IconShapeLeafyOverlay
 
 # Signal / WiFi Icons
 PRODUCT_PACKAGES += \

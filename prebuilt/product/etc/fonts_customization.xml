@@ -1015,6 +1015,29 @@
     <alias name="ITC Stone Serif" to="pique" />
 
     <!-- Lockscreen Clock Fonts -->
+    
+    <!-- IOS font family -->
+    <family customizationType="new-named-family" name="newyork-heavy-clock">
+      <font>NewYork-Heavy.otf</font>
+    </family>
+    <family customizationType="new-named-family" name="newyork-semibold-clock">
+      <font>NewYork-Semibold.otf</font>
+    </family>
+    <family customizationType="new-named-family" name="sanfrancisco-sb-clock">
+      <font>SFPro-Semibold.otf</font>
+    </family>
+    <family customizationType="new-named-family" name="sanfrancisco-sb-rails-clock">
+      <font>SFPro-SemiboldRails.otf</font>
+     </family>
+    <family customizationType="new-named-family" name="sanfrancisco-sb-round-clock">
+      <font>SFPro-SemiboldRounded.otf</font>
+    </family>
+    <family customizationType="new-named-family" name="sanfrancisco-sb-soft-clock">
+      <font>SFPro-SemiboldSoft.otf</font>
+    </family>
+    <family customizationType="new-named-family" name="sanfrancisco-sb-stencil-clock">
+    <font>SFPro-SemiboldStencil.otf</font>
+    </family>
     <family customizationType="new-named-family" name="adventpro">
         <font weight="300" style="normal">AdventPro-Regular.ttf</font>
     </family>

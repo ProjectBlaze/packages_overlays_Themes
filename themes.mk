@@ -334,3 +334,16 @@ PRODUCT_PACKAGES += \
 # QS UI Style
 PRODUCT_PACKAGES += \
     A11QSUI
+    
+# Navbar styles
+PRODUCT_PACKAGES += \
+    NavbarAndroidOverlay \
+    NavbarAsusOverlay \
+    NavbarMotoOverlay \
+    NavbarNexusOverlay \
+    NavbarOldOverlay \
+    NavbarOnePlusOverlay \
+    NavbarOneUiOverlay \
+    NavbarSammyOverlay \
+    NavbarTecnoCamonOverlay \
+    NavbarDoraOverlay

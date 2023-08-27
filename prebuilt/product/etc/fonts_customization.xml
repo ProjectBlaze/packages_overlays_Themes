@@ -1017,6 +1017,12 @@
     <!-- Lockscreen Clock Fonts -->
     
     <!-- IOS font family -->
+    <family customizationType="new-named-family" name="kroppen-outline">
+      <font>KroppenOutline.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="kroppen-round">
+      <font>KroppenRound.ttf</font>
+    </family>
     <family customizationType="new-named-family" name="newyork-heavy-clock">
       <font>NewYork-Heavy.otf</font>
     </family>

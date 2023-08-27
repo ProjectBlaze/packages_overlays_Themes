@@ -68,6 +68,13 @@
 
     <family customizationType="new-named-family" name="google-sans-clock">
         <font>GoogleSansClock-Regular.ttf</font>
+
+    <!-- IOS font family -->
+    <family customizationType="new-named-family" name="sfroundedtime">
+      <font>SFRoundedTime-Medium.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="sfsofttime-semibold">
+      <font>SFSoftTime-Semibold.ttf</font>
     </family>
 
     <family customizationType="new-named-family" name="google-sans-bold">

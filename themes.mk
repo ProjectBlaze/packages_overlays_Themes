@@ -267,12 +267,16 @@ PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
     BarsSignalOverlay \
     BarsWiFiOverlay \
+    ColorOsSignalOverlay \
+    ColorOsWiFiOverlay \
     DeepSignalOverlay \
     HuaweiSignalOverlay \
     IosSignalOverlay \
     InsideSignalOverlay \
     InsideWiFiOverlay \
     PillsSignalOverlay \
+    RealmeUISignalOverlay \
+    RealmeUIWiFiOverlay \
     RoundSignalOverlay \
     RoundWiFiOverlay \
     SneakySignalOverlay \

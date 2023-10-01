@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="vector" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="group_2" android:scaleX="1.7" android:scaleY="1.75" android:translateX="-8.4" android:translateY="-8.5">
+        <group android:name="group_1" android:pivotX="1.0" android:pivotY="1.0">
+            <group android:name="group" android:pivotX="18.0" android:translateX="2.5" android:translateY="6.0">
+                <clip-path android:name="clip_path" android:pathData="M 10.027 11.321 C 9.76 11.665 9.24 11.665 8.973 11.321 L 0.5 0.4 L 9.5 0 L 18.5 0.4 L 10.027 11.321 Z" />
+                <path android:name="path" android:fillColor="#ff000000" android:pathData="M 9.5 17.63 C 13.88 17.63 17.43 14.08 17.43 9.7 C 17.43 5.32 13.88 1.77 9.5 1.77 C 5.12 1.77 1.57 5.32 1.57 9.7 C 1.57 14.08 5.12 17.63 9.5 17.63 Z M 9.5 19.2 C 14.747 19.2 19 14.947 19 9.7 C 19 4.453 14.747 0.2 9.5 0.2 C 4.253 0.2 0 4.453 0 9.7 C 0 14.947 4.253 19.2 9.5 19.2 Z" android:strokeAlpha="0.2" android:fillAlpha="0.3" android:fillType="evenOdd" />
+                <path android:name="path_1" android:fillColor="#ff000000" android:pathData="M 9.5 15.63 C 12.499 15.63 14.93 13.199 14.93 10.2 C 14.93 7.201 12.499 4.77 9.5 4.77 C 6.501 4.77 4.07 7.201 4.07 10.2 C 4.07 13.199 6.501 15.63 9.5 15.63 Z M 9.5 17.2 C 13.366 17.2 16.5 14.066 16.5 10.2 C 16.5 6.334 13.366 3.2 9.5 3.2 C 5.634 3.2 2.5 6.334 2.5 10.2 C 2.5 14.066 5.634 17.2 9.5 17.2 Z" android:strokeAlpha="0.2" android:fillAlpha="0.3" android:fillType="evenOdd" />
+                <path android:name="path_2" android:fillColor="#ff000000" android:pathData="M 9.5 13.63 C 11.118 13.63 12.43 12.318 12.43 10.7 C 12.43 9.082 11.118 7.77 9.5 7.77 C 7.882 7.77 6.57 9.082 6.57 10.7 C 6.57 12.318 7.882 13.63 9.5 13.63 Z M 9.5 15.2 C 11.985 15.2 14 13.185 14 10.7 C 14 8.215 11.985 6.2 9.5 6.2 C 7.015 6.2 5 8.215 5 10.7 C 5 13.185 7.015 15.2 9.5 15.2 Z" android:strokeAlpha="0.2" android:fillType="evenOdd" />
+                <path android:name="path_3" android:fillColor="#ff000000" android:pathData="M 9.499 10.2 M 8.499 10.2 C 8.499 9.935 8.605 9.68 8.792 9.493 C 8.98 9.305 9.234 9.2 9.499 9.2 C 9.764 9.2 10.019 9.305 10.206 9.493 C 10.394 9.68 10.499 9.935 10.499 10.2 C 10.499 10.465 10.394 10.72 10.206 10.907 C 10.019 11.095 9.764 11.2 9.499 11.2 C 9.234 11.2 8.98 11.095 8.792 10.907 C 8.605 10.72 8.499 10.465 8.499 10.2" android:strokeAlpha="0.2" />
+            </group>
+        </group>
+    </group>
+</vector>
